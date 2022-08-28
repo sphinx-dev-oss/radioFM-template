@@ -16,4 +16,4 @@
 
 ![alt text](https://i.imgur.com/zGm4emh.png)
 
-# ***Sharing on other websites or declaring it as your own is strictly prohibited!***
+# Create by: sphinx-dev-oss AKA Izumi
