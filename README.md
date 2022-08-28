@@ -1,1 +1,19 @@
-# radioFM-template
+# radioFM-template | WORK IN PROGRESS
+
+**This website template is perfect for Radio companies.**
+
+- **Free to use!**
+- **Free to edit!**
+- **Responsive website**
+
+# Pictures from the website:
+
+![alt text](https://i.imgur.com/kxyP5Tb.png)
+
+![alt text](https://i.imgur.com/2FW5BAM.png)
+
+![alt text](https://i.imgur.com/2JBQErs.png)
+
+![alt text](https://i.imgur.com/zGm4emh.png)
+
+# ***Sharing on other websites or declaring it as your own is strictly prohibited!***
