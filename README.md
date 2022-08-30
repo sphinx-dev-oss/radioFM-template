@@ -16,4 +16,5 @@
 
 ![alt text](https://i.imgur.com/zGm4emh.png)
 
-# Create by: sphinx-dev-oss AKA __Izumi__
+# Created by: sphinx-dev-oss AKA Izumi
+# https://sphinx-dev-oss.github.io/
